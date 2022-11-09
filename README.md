@@ -1,8 +1,8 @@
 # counter_7
 
-###Rafinal Haryokusumo Taloputra
-###2106634540
-###PBP-F
+### Rafinal Haryokusumo Taloputra
+### 2106634540
+### PBP-F
 
 ## Jelaskan apa yang dimaksud dengan stateless widget dan stateful widget dan jelaskan perbedaan dari keduanya.
 
