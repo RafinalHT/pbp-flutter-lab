@@ -1,16 +1,15 @@
 # counter_7
 
-A new Flutter project.
+Rafinal Haryokusumo Taloputra
+2106634540
+PBP-F
 
-## Getting Started
+## Jelaskan apa yang dimaksud dengan stateless widget dan stateful widget dan jelaskan perbedaan dari keduanya.
 
-This project is a starting point for a Flutter application.
+## Sebutkan widget apa saja yang kamu pakai di proyek kali ini dan jelaskan fungsinya.
 
-A few resources to get you started if this is your first Flutter project:
+## Apa fungsi dari setState()? Jelaskan variabel apa saja yang dapat terdampak dengan fungsi tersebut.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Jelaskan perbedaan antara const dengan final.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Jelaskan bagaimana cara kamu mengimplementasikan checklist di atas.
