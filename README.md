@@ -57,3 +57,16 @@ Navigator menggunakan struktur data stack. Stack ini digunakan untuk layar sehin
 1. Menambahkan drawer untuk menu counter, form, dan data budget
 2. Menambahkan halaman form dengan input yang bisa diisi string, integer, dropdown, dan button. Input yang telah diisi akan dimasukkan kedalam list untuk disimpan agar bisa ditampilkan pada halaman budget data
 3. Menambahkan halaman budget data untuk menunjukkan data yang sudah diinput pengguna dengan menggunakan ListView.Builder agar setiap objek pada list dapat ditunjukkan
+
+
+
+
+# Tugas 9: Integrasi Web Service pada Flutter
+
+## Apakah bisa kita melakukan pengambilan data JSON tanpa membuat model terlebih dahulu? Jika iya, apakah hal tersebut lebih baik daripada membuat model sebelum melakukan pengambilan data JSON?
+
+## Sebutkan widget apa saja yang kamu pakai di proyek kali ini dan jelaskan fungsinya
+
+## Jelaskan mekanisme pengambilan data dari json hingga dapat ditampilkan pada Flutter.
+
+## Jelaskan bagaimana cara kamu mengimplementasikan checklist di atas.
